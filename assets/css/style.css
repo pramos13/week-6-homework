@@ -1,0 +1,14 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+    padding: 0px 20px 25px 20px;
+	margin-bottom: 10px;
+}
+
+h1 {
+	background-color: blue;
+}
